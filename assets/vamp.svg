@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- vamp: pianotangenter i en jazzklubb -->
+  <rect width="64" height="64" rx="14" fill="#2a1035"/>
+  <rect x="8" y="22" width="48" height="30" rx="3" fill="#fafaf9"/>
+  <g stroke="#a8a29e" stroke-width="1.2"><path d="M17.6 22v30M27.2 22v30M36.8 22v30M46.4 22v30"/></g>
+  <g fill="#1c1917"><rect x="14" y="22" width="6" height="18" rx="1"/><rect x="23.6" y="22" width="6" height="18" rx="1"/><rect x="42.8" y="22" width="6" height="18" rx="1"/></g>
+  <g fill="#f472b6"><circle cx="20" cy="12" r="2"/><circle cx="32" cy="9" r="2.5"/><circle cx="44" cy="13" r="2"/></g>
+</svg>

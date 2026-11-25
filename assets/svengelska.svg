@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Svengelska: ett glosskort som svepas åt höger (sant) eller vänster (falskt) -->
+  <rect width="64" height="64" rx="14" fill="#0b3b66"/>
+  <rect x="19" y="12" width="26" height="36" rx="4" fill="#ffffff" transform="rotate(8 32 30)"/>
+  <rect x="24" y="22" width="16" height="4" rx="2" fill="#fecc02" transform="rotate(8 32 30)"/>
+  <rect x="24" y="31" width="16" height="4" rx="2" fill="#c8102e" transform="rotate(8 32 30)"/>
+  <g fill="none" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M14 55H6m4-4l-4 4 4 4" stroke="#f87171"/><path d="M50 55h8m-4-4l4 4-4 4" stroke="#4ade80"/>
+  </g>
+</svg>
